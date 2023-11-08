@@ -48,7 +48,7 @@ function zipWith (f, xs, ys) {
 
 // Algoritmo de Bjorklund
 function bjorklund(front, back) {
-  if (back.length > 1) {
+  if (back.length > 1 && front.length != 0) {
     const newFront = zipWith(append, front, back)
     const newBack = diffList(front, back);
     return bjorklund(newFront, newBack);
