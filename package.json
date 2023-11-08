@@ -1,0 +1,26 @@
+{
+  "name": "rtg",
+  "version": "1.0.0",
+  "description": "A geometric library for rhythmic pattern generation and manipulation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninioArtillero/rtg.git"
+  },
+  "keywords": [
+    "rhythm",
+    "time",
+    "geometry",
+    "sound",
+    "music"
+  ],
+  "author": "Xavier Góngora",
+  "license": "LGPL-2.1-only",
+  "bugs": {
+    "url": "https://github.com/ninioArtillero/rtg/issues"
+  },
+  "homepage": "https://github.com/ninioArtillero/rtg"
+}
