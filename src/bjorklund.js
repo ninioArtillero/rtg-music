@@ -75,4 +75,4 @@ function euclideanPattern(onsets, pulses) {
 // console.log(euclideanPattern(3,8)); // [ 1,0,0,1,0,0,1,0 ] //
 ////////////////////////////////////////////////////////////////
 
-module.export = { euclideanPattern }
+module.exports = { euclideanPattern }
