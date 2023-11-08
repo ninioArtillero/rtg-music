@@ -1,7 +1,7 @@
 {
-  "name": "rtg",
+  "name": "rtg-music",
   "version": "1.0.0",
-  "description": "A geometric library for rhythmic pattern generation and manipulation",
+  "description": "A geometric library for rhythmic pattern generation and manipulation in music",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
