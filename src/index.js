@@ -1,3 +1,3 @@
-const euclideanPattern = require( "./bjorklund" );
+const { euclideanPattern } = require( "./bjorklund" );
 
-module.export = { euclideanPattern };
+module.exports = { euclideanPattern };
