@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ninioArtillero/rtg.git"
+    "url": "git+https://github.com/ninioArtillero/rtg-music.git"
   },
   "keywords": [
     "rhythm",
@@ -20,9 +20,9 @@
   "author": "Xavier Góngora",
   "license": "LGPL-2.1-only",
   "bugs": {
-    "url": "https://github.com/ninioArtillero/rtg/issues"
+    "url": "https://github.com/ninioArtillero/rtg-music/issues"
   },
-  "homepage": "https://github.com/ninioArtillero/rtg",
+  "homepage": "https://github.com/ninioArtillero/rtg-music",
   "devDependencies": {
     "jest": "^29.7.0"
   }
